@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="79dp"
+    android:height="73dp"
+    android:viewportWidth="79"
+    android:viewportHeight="73">
+
+    <!-- Background -->
+    <path
+        android:pathData="M0,0 L79,0 L79,73 L0,73 Z"
+        android:fillColor="#E8F4FD"/>
+
+    <!-- Senior person illustration -->
+    <!-- Head -->
+    <path
+        android:pathData="M39.5,11a8,9 0 1,0 0.1,0"
+        android:fillColor="#FDBCB4"/>
+
+    <!-- Hair -->
+    <path
+        android:pathData="M31.5,15 Q39.5,10 47.5,15 Q45,12 39.5,11 Q34,12 31.5,15"
+        android:fillColor="#D0D0D0"/>
+
+    <!-- Body -->
+    <path
+        android:pathData="M33,29 h13 a2,2 0 0,1 2,2 v14 a2,2 0 0,1 -2,2 h-13 a2,2 0 0,1 -2,-2 v-14 a2,2 0 0,1 2,-2 z"
+        android:fillColor="#4A90E2"/>
+
+    <!-- Arms -->
+    <path
+        android:pathData="M25,35 a3,8 0 1,0 6,0 a3,8 0 1,0 -6,0"
+        android:fillColor="#FDBCB4"/>
+
+    <path
+        android:pathData="M48,35 a3,8 0 1,0 6,0 a3,8 0 1,0 -6,0"
+        android:fillColor="#FDBCB4"/>
+
+    <!-- Legs -->
+    <rect
+        android:x="35dp"
+        android:y="47dp"
+        android:width="3dp"
+        android:height="15dp"
+        android:fillColor="#2E5BBA"/>
+
+    <rect
+        android:x="41dp"
+        android:y="47dp"
+        android:width="3dp"
+        android:height="15dp"
+        android:fillColor="#2E5BBA"/>
+
+    <!-- Smartphone in hand -->
+    <rect
+        android:x="52dp"
+        android:y="32dp"
+        android:width="6dp"
+        android:height="10dp"
+        android:fillColor="#333333"/>
+
+    <rect
+        android:x="53dp"
+        android:y="33dp"
+        android:width="4dp"
+        android:height="6dp"
+        android:fillColor="#87CEEB"/>
+
+    <!-- Government building in background -->
+    <rect
+        android:x="8dp"
+        android:y="45dp"
+        android:width="15dp"
+        android:height="20dp"
+        android:fillColor="#F0F0F0"/>
+
+    <!-- Building pillars -->
+    <rect android:x="9dp" android:y="50dp" android:width="2dp" android:height="15dp" android:fillColor="#CCCCCC"/>
+    <rect android:x="12dp" android:y="50dp" android:width="2dp" android:height="15dp" android:fillColor="#CCCCCC"/>
+    <rect android:x="15dp" android:y="50dp" android:width="2dp" android:height="15dp" android:fillColor="#CCCCCC"/>
+    <rect android:x="18dp" android:y="50dp" android:width="2dp" android:height="15dp" android:fillColor="#CCCCCC"/>
+
+    <!-- Building roof -->
+    <path
+        android:pathData="M6,45 L15.5,38 L25,45 Z"
+        android:fillColor="#8B4513"/>
+
+    <!-- Scheme documents -->
+    <rect
+        android:x="60dp"
+        android:y="50dp"
+        android:width="12dp"
+        android:height="8dp"
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="1"/>
+
+    <rect android:x="62dp" android:y="52dp" android:width="8dp" android:height="1dp" android:fillColor="#4A90E2"/>
+    <rect android:x="62dp" android:y="54dp" android:width="6dp" android:height="1dp" android:fillColor="#4A90E2"/>
+    <rect android:x="62dp" android:y="56dp" android:width="7dp" android:height="1dp" android:fillColor="#4A90E2"/>
+
+</vector>

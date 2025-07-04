@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640656604389",
+    "project_id": "seniorsetu",
+    "storage_bucket": "seniorsetu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640656604389:android:5bd45c5646b68bdddc680c",
+        "android_client_info": {
+          "package_name": "com.example.seniorsetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAal_F5hzpNreUiyTG2sTb7eEqLbIzPMU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

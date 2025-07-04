@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Primary Colors for Senior-friendly theme -->
+    <color name="primary_blue">#4A90E2</color>
+    <color name="primary_blue_dark">#357ABD</color>
+    <color name="accent_orange">#FF6B35</color>
+    <color name="accent_orange_light">#FF8A5C</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F8FAFC</color>
+    <color name="background_gradient_start">#667eea</color>
+    <color name="background_gradient_end">#764ba2</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#2D3748</color>
+    <color name="text_secondary">#718096</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_white_80">#CCFFFFFF</color>
+
+    <!-- Card and Surface -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_shadow">#1A000000</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary">#4A90E2</color>
+    <color name="button_secondary">#E53E3E</color>
+    <color name="button_google">#DB4437</color>
+    <color name="button_phone">#34D399</color>
+    <color name="button_guest">#9F7AEA</color>
+
+    <!-- Default colors -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
