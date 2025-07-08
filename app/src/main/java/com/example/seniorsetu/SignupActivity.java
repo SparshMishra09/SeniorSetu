@@ -54,6 +54,10 @@ public class SignupActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        if (getSupportActionBar() != null) {
+            getSupportActionBar().hide();
+        }
+
         setContentView(R.layout.activity_signup);
 
         // Initialize Firebase components
@@ -95,7 +99,6 @@ public class SignupActivity extends AppCompatActivity {
             editTextPhone = findViewById(R.id.editTextPhone);
             editTextAge = findViewById(R.id.editTextAge);
             buttonSignup = findViewById(R.id.buttonSignup);
-            backArrow = findViewById(R.id.backArrow);
             tvLoginLink = findViewById(R.id.tvLoginLink);
             Log.d(TAG, "Views initialized successfully");
         } catch (Exception e) {

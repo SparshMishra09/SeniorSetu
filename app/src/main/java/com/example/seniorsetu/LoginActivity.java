@@ -76,7 +76,7 @@ public class LoginActivity extends AppCompatActivity {
             btnGuestLogin = findViewById(R.id.btnGuestLogin);
             tvCreateAccount = findViewById(R.id.tvCreateAccount);
             tvForgotPassword = findViewById(R.id.tvForgotPassword);
-            btnPhoneLogin = findViewById(R.id.btnPhoneLogin);
+
             Log.d(TAG, "Views initialized successfully");
         } catch (Exception e) {
             Log.e(TAG, "Error initializing views: " + e.getMessage());
